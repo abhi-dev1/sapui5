@@ -429,7 +429,7 @@ You can hide an explicitly included property in the *Adapt Filters* dialog using
 > }
 > 
 > ```
-
+Note: Use Hidden keyword instead of Adaptation for CAP application to hide fileds from adapt filter.
 All properties are included in the *Adapt Filters* dialog, except the ones that have filter restrictions and those that are marked as `@UI.Hidden`.
 
 **Related Information**  
